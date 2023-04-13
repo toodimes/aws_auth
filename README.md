@@ -1,6 +1,8 @@
 AWSAuth
 =======
 
+## FORK OF THE ORIGINAL THAT WORKS WITH OTP 23 AND UP. No :crypto deprecetiation
+
 A small library used to sign AWS request urls using AWS Signature Version 4.
 
 Takes some inspiration from the [Simplex](https://github.com/adamkittelson/simplex) Library.
